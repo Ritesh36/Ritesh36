@@ -1,12 +1,12 @@
 # Ritesh Kshirsagar 👋
 
-**Fresher DevOps Engineer | Final-year Engineering Student**
+**DevOps Engineer | Engineering Graduate**
 
 ---
 
 ## 🚀 About Me
 
-I'm a final-year engineering student pivoting into DevOps and cloud engineering. I enjoy automating workflows, improving deployment reliability, and building scalable systems. I combine my software development background with hands-on experience in CI/CD, containerization, and infrastructure-as-code.
+I'm an engineering graduate focused on DevOps and cloud engineering. I enjoy automating workflows, improving deployment reliability, and building scalable systems. I combine my software[...]
 
 ---
 
