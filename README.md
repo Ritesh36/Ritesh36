@@ -42,27 +42,11 @@ I'm a final-year engineering student pivoting into DevOps and cloud engineering.
 
 ---
 
-## 📚 Learning & Certifications
-
-- Currently learning: Advanced Kubernetes patterns, Terraform best practices, and cloud-native observability.
-- Add certifications here (example): AWS Certified Cloud Practitioner, CNCF / Kubernetes certifications.
-
----
-
 ## 📫 Contact & Links
 
-- Email: youremail@example.com
+- Email: riteshkshirsagar07@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ritesh-kshirsagar-10037b2b1
 - GitHub: https://github.com/Ritesh36
-
----
-
-## ✅ Next steps I recommend
-
-1. Add or create repos for the projects listed and link them above so visitors can review your work.
-2. Add badges for CI status, Docker pulls, or build pipelines to show working demos.
-3. Include screenshots, GIFs, or short walkthroughs in the project READMEs to demonstrate functionality.
-4. Add any certifications or course completion badges to strengthen credibility.
 
 ---
 
